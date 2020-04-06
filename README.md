@@ -1,4 +1,4 @@
-1. Key metrices: There are few metrices which can help us understand how our product is doing.
+Key metrices: There are few metrices which can help us understand how our product is doing.
 Few key metrices that will help all marketers are discussed here. Metrices tackled are:
 
 	Monthly Revenue
